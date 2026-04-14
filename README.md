@@ -1,17 +1,6 @@
-# Customer Analysis – Case Study (Pandas & Visualisierung)
+# Customer Analysis 
 
-Zwei Jupyter Notebooks aus einem Live-Kurs zur Analyse von Telekommunikations-Kundendaten mit Python.
-
----
-
-## Dateien
-
-| Notebook | Thema |
-|---|---|
-| `Live_Call_03_06_25_Customers.ipynb` | Datenanalyse mit Pandas |
-| `Live_Call_10_06_25_Customer_Visualisierung.ipynb` | Datenvisualisierung mit Matplotlib & Seaborn |
-
----
+Zwei Jupyter Notebooks zur Analyse von Telekommunikations-Kundendaten mit Python.
 
 ## Datensatz
 
