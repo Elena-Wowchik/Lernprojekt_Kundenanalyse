@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis – Telekommunikation
+#Customer Churn Analysis – Telekommunikation
 
 > **Ziel:** Identifikation von Mustern bei abgewanderten Kunden (Churn) eines Telekommunikationsunternehmens mithilfe von Python (Pandas, Matplotlib, Seaborn).
 
