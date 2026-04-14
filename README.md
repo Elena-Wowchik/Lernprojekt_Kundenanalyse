@@ -21,10 +21,10 @@
 
 ## Technologien
 
-![Python]
-![Pandas]
-![Seaborn]
-![Matplotlib]
+Python
+Pandas
+Seaborn
+Matplotlib
 
 ---
 
