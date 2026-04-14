@@ -21,10 +21,10 @@
 
 ## Technologien
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualisierung-4C72B0)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-orange)
+![Python]
+![Pandas]
+![Seaborn]
+![Matplotlib]
 
 ---
 
