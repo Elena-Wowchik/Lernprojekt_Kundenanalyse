@@ -1,12 +1,12 @@
-#Customer Churn Analysis – Telekommunikation
+# Customer Churn Analysis – Telekommunikation
 
-> **Ziel:** Identifikation von Mustern bei abgewanderten Kunden (Churn) eines Telekommunikationsunternehmens mithilfe von Python (Pandas, Matplotlib, Seaborn).
+**Ziel:** Identifikation von Mustern bei abgewanderten Kunden (Churn) eines Telekommunikationsunternehmens mithilfe von Python (Pandas, Matplotlib, Seaborn).
 
----
+
 
 ## Key Metrics
 
-![KPI Banner](images/00_kpi_banner.png)
+![KPI Banner](00_kpi_banner.png)
 
 | Metrik | Wert |
 |---|---|
@@ -48,7 +48,7 @@ Matplotlib
 
 ### 1 — Churn-Überblick
 
-![Churn Overview](images/01_churn_overview.png)
+![Churn Overview](01_churn_overview.png)
 
 **Erkenntnisse:**
 - Jeder 4. Kunde kündigt – Churn-Rate von **26,5%**
@@ -59,7 +59,7 @@ Matplotlib
 
 ### 2 — Numerische Unterschiede: Churn vs. Treu
 
-![Boxplots](images/02_boxplots_churn.png)
+![Boxplots](02_boxplots_churn.png)
 
 **Erkenntnisse:**
 - Abgewanderte Kunden haben eine **deutlich kürzere Vertragslaufzeit** (Median ~10 Monate vs. ~38 Monate)
@@ -70,7 +70,7 @@ Matplotlib
 
 ### 3 — Verteilungen: Wann kündigen Kunden?
 
-![KDE Distributions](images/03_kde_distributions.png)
+![KDE Distributions](03_kde_distributions.png)
 
 **Erkenntnisse:**
 - Kündiger häufen sich stark in den **ersten 12 Monaten** – der Onboarding-Zeitraum ist kritisch
@@ -81,7 +81,7 @@ Matplotlib
 
 ### 4 — Korrelation & Zahlungsmethoden
 
-![Correlation and Payment](images/04_corr_payment.png)
+![Correlation and Payment](04_corr_payment.png)
 
 **Erkenntnisse:**
 - `TotalCharges` und `tenure` korrelieren stark (0.83) – logisch: je länger Kunde, desto höhere Gesamtkosten
@@ -110,12 +110,11 @@ customer-churn-analysis/
 ├── customers.csv
 ├── 01_Customers_EDA.ipynb
 ├── 02_Customers_Visualisierung.ipynb
-└── images/
-    ├── 00_kpi_banner.png
-    ├── 01_churn_overview.png
-    ├── 02_boxplots_churn.png
-    ├── 03_kde_distributions.png
-    └── 04_corr_payment.png
+├── 00_kpi_banner.png
+├── 01_churn_overview.png
+├── 02_boxplots_churn.png
+├── 03_kde_distributions.png
+└── 04_corr_payment.png
 ```
 
 ---
@@ -130,4 +129,4 @@ jupyter notebook
 
 ---
 
-*Analyse durchgeführt im Rahmen der Weiterbildung Data Science & Projektmanagement – DATA SCIENCE Institute, Berlin 2025*
+*Analyse durchgeführt im Rahmen der Weiterbildung Data Science & Projektmanagement – DATA SCIENCE Institute, Berlin 2025-26*
